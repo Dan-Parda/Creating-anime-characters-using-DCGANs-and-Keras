@@ -10,6 +10,9 @@ Mentee Info Name : Rahmad Daniel P N
 Program : IBM Advance AI
 -------------------------------------------------------------
 Tech Stack :
+
 Python
+
 JupyterNotebook
+
 Google Collab
