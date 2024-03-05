@@ -15,4 +15,3 @@ Python
 
 JupyterNotebook
 
-Google Collab
